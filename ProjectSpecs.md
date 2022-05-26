@@ -11,6 +11,7 @@
  - CSS styles and their structure
      - All applicable [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) are utilized appropriately and as demonstrated in the tutorial(s).
      - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are utilized appropriately and as demonstrated in the tutorial(s).
+     - This project will be designed with a [mobile - first](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/) approach.
 
 
 ## Administrative Specifications
