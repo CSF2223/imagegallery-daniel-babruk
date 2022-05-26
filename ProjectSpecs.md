@@ -13,6 +13,8 @@
      - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are utilized appropriately and as demonstrated in the tutorial(s).
      - This project will be designed with a [mobile - first](https://xd.adobe.com/ideas/process/ui-design/what-is-mobile-first-design/) approach.
 
+ - Do not make any changes to the markdown (.md) files 
+
 
 ## Administrative Specifications
  - Your project folder must reside directly off the root directory of your AWS IDE
